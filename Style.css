@@ -136,17 +136,9 @@ h3 {
     text-align: center;
 }
 
-#about h2 {
-    margin-bottom: 20px;
-    font-size: 28px;
-    color: white;
-}
-
+#about h2,
 #about p {
-    font-size: 16px;
-    line-height: 1.6;
-    margin-bottom: 15px;
-    color: white;
+    text-align: center;
 }
 
 /* Footer Styling */
